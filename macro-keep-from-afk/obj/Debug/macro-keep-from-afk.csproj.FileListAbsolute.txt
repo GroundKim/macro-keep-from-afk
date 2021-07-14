@@ -1,0 +1,10 @@
+C:\Users\jjoo0815\code\macro-keep-from-afk\macro-keep-from-afk\macro-keep-from-afk\bin\Debug\macro-keep-from-afk.exe.config
+C:\Users\jjoo0815\code\macro-keep-from-afk\macro-keep-from-afk\macro-keep-from-afk\bin\Debug\macro-keep-from-afk.exe
+C:\Users\jjoo0815\code\macro-keep-from-afk\macro-keep-from-afk\macro-keep-from-afk\bin\Debug\macro-keep-from-afk.pdb
+C:\Users\jjoo0815\code\macro-keep-from-afk\macro-keep-from-afk\macro-keep-from-afk\obj\Debug\macro-keep-from-afk.csproj.AssemblyReference.cache
+C:\Users\jjoo0815\code\macro-keep-from-afk\macro-keep-from-afk\macro-keep-from-afk\obj\Debug\macro_keep_from_afk.Form1.resources
+C:\Users\jjoo0815\code\macro-keep-from-afk\macro-keep-from-afk\macro-keep-from-afk\obj\Debug\macro_keep_from_afk.Properties.Resources.resources
+C:\Users\jjoo0815\code\macro-keep-from-afk\macro-keep-from-afk\macro-keep-from-afk\obj\Debug\macro-keep-from-afk.csproj.GenerateResource.cache
+C:\Users\jjoo0815\code\macro-keep-from-afk\macro-keep-from-afk\macro-keep-from-afk\obj\Debug\macro-keep-from-afk.csproj.CoreCompileInputs.cache
+C:\Users\jjoo0815\code\macro-keep-from-afk\macro-keep-from-afk\macro-keep-from-afk\obj\Debug\macro-keep-from-afk.exe
+C:\Users\jjoo0815\code\macro-keep-from-afk\macro-keep-from-afk\macro-keep-from-afk\obj\Debug\macro-keep-from-afk.pdb
